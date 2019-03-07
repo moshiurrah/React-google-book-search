@@ -1,1 +1,2 @@
-# React-google-book-search
+# NYT-Google-Books
+NYT Google Books Search
